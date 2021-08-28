@@ -1,0 +1,49 @@
+body {
+    background-color: yellow;
+}
+
+h1 {
+    color: rgb(25, 255, 102);
+    font-family: cursive;
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+    font-family: sans-serif;
+}
+
+h4 {
+    text-align: center;
+    font-family: sans-serif;
+}
+
+img {
+    width: 400px;
+    display: flex;
+}
+
+.Second #spanId {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+    margin: 50px;
+    display: flex;
+}
+
+#thirdDiv {
+    font-family: cursive;
+    background-color: cyan;
+    color: coral;
+    height: 650px;
+    width: 500px;
+    padding: 50px;
+    margin: 10px 60px;
+    padding: 20px 60px;
+    border: 5px solid #ccc;
+    margin-left: center;
+    margin-right: center;
+}
+
+ul {
+    margin-top: auto;
+}

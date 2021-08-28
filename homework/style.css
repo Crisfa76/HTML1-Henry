@@ -1,0 +1,32 @@
+body {
+    background-image: url(../homework/Fondo5.jpg);
+    background-size: 100%;
+    color: white;
+}
+
+#mifoto {
+    margin-bottom: 10px;
+}
+
+fieldset {
+    margin-bottom: 15px;
+}
+
+legend {
+    border: solid 2px white;
+    padding: 5px;
+    font-weight: bold;
+    background: lightskyblue;
+    border-radius: inherit;
+    -webkit-border-radius: inherit;
+    -moz-border-radius: inherit;
+    -ms-border-radius: inherit;
+    -o-border-radius: inherit;
+}
+
+#principal {
+    border: solid 3px white;
+    width: 80%;
+    margin: 0 auto;
+    padding: 7px;
+}
